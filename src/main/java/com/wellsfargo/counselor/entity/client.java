@@ -41,6 +41,10 @@ public class client {
         return clientId;
     }
 
+    public Long advisorId() {
+        return advisorId;
+    }
+
     public String getFirstName() {
         return firstName;
     }
